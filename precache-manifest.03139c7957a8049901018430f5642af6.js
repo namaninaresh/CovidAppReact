@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0ae1124dad062a3cfb2dea64715e5ba3",
+    "revision": "468ced6bec0b81388d44332632e1d51d",
     "url": "/CovidAppReact/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CovidAppReact/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "a6256d78fd9e7882409f",
+    "revision": "b87b8c9c8f9c2a8401fe",
     "url": "/CovidAppReact/static/css/5.7dff9af4.chunk.css"
   },
   {
@@ -32,19 +32,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CovidAppReact/static/js/4.be58fd0d.chunk.js"
   },
   {
-    "revision": "a6256d78fd9e7882409f",
-    "url": "/CovidAppReact/static/js/5.8bf1f786.chunk.js"
+    "revision": "b87b8c9c8f9c2a8401fe",
+    "url": "/CovidAppReact/static/js/5.5780ce7a.chunk.js"
   },
   {
-    "revision": "62e4307bdc33020a7d5d",
-    "url": "/CovidAppReact/static/js/6.afcac563.chunk.js"
+    "revision": "9cacaef96f63969422ab",
+    "url": "/CovidAppReact/static/js/6.d9fe1363.chunk.js"
   },
   {
     "revision": "18ab547729589dadf812",
     "url": "/CovidAppReact/static/js/main.7aaf8740.chunk.js"
   },
   {
-    "revision": "39582187ec427051d92c",
-    "url": "/CovidAppReact/static/js/runtime-main.8110b8ff.js"
+    "revision": "fce6bd11958bb91e9ae8",
+    "url": "/CovidAppReact/static/js/runtime-main.a3575553.js"
   }
 ]);

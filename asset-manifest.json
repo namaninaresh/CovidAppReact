@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/CovidAppReact/static/css/main.1ca3701d.chunk.css",
+    "main.js": "/CovidAppReact/static/js/main.7aaf8740.chunk.js",
+    "main.js.map": "/CovidAppReact/static/js/main.7aaf8740.chunk.js.map",
+    "runtime-main.js": "/CovidAppReact/static/js/runtime-main.8110b8ff.js",
+    "runtime-main.js.map": "/CovidAppReact/static/js/runtime-main.8110b8ff.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/CovidAppReact/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.7b45637d.chunk.js": "/CovidAppReact/static/js/2.7b45637d.chunk.js",
+    "static/js/2.7b45637d.chunk.js.map": "/CovidAppReact/static/js/2.7b45637d.chunk.js.map",
+    "static/js/3.22e2ef0a.chunk.js": "/CovidAppReact/static/js/3.22e2ef0a.chunk.js",
+    "static/js/3.22e2ef0a.chunk.js.map": "/CovidAppReact/static/js/3.22e2ef0a.chunk.js.map",
+    "static/js/4.be58fd0d.chunk.js": "/CovidAppReact/static/js/4.be58fd0d.chunk.js",
+    "static/js/4.be58fd0d.chunk.js.map": "/CovidAppReact/static/js/4.be58fd0d.chunk.js.map",
+    "static/css/5.7dff9af4.chunk.css": "/CovidAppReact/static/css/5.7dff9af4.chunk.css",
+    "static/js/5.8bf1f786.chunk.js": "/CovidAppReact/static/js/5.8bf1f786.chunk.js",
+    "static/js/5.8bf1f786.chunk.js.map": "/CovidAppReact/static/js/5.8bf1f786.chunk.js.map",
+    "static/js/6.afcac563.chunk.js": "/CovidAppReact/static/js/6.afcac563.chunk.js",
+    "static/js/6.afcac563.chunk.js.map": "/CovidAppReact/static/js/6.afcac563.chunk.js.map",
+    "index.html": "/CovidAppReact/index.html",
+    "precache-manifest.3b91f1cd61b55f3d5bad98dfb411e326.js": "/CovidAppReact/precache-manifest.3b91f1cd61b55f3d5bad98dfb411e326.js",
+    "service-worker.js": "/CovidAppReact/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/CovidAppReact/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/5.7dff9af4.chunk.css.map": "/CovidAppReact/static/css/5.7dff9af4.chunk.css.map",
+    "static/css/main.1ca3701d.chunk.css.map": "/CovidAppReact/static/css/main.1ca3701d.chunk.css.map",
+    "static/js/2.7b45637d.chunk.js.LICENSE.txt": "/CovidAppReact/static/js/2.7b45637d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8110b8ff.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.7b45637d.chunk.js",
+    "static/css/main.1ca3701d.chunk.css",
+    "static/js/main.7aaf8740.chunk.js"
+  ]
+}

@@ -1,0 +1,103 @@
+.dark-mode
+{
+    background-color: #161625;
+    color: #6c757d;
+}
+
+.dark-mode .jumbotron
+{
+    background-color: #1e1e30;
+}
+.dark-mode .mynav
+{
+    background-color: #1e1e30 !important;
+    color:#6c757d;
+}
+
+.dark-mode .mynav a 
+{
+    color:#6c757d;
+}
+
+.dark-mode .mynav a:hover
+{
+    color:white;
+}
+
+
+.dark-mode tbody
+{
+    color: #9a9da0;
+}
+
+.dark-mode .table-bordered th{
+    border: 1px solid #7f8489a6;
+}
+.dark-mode .table-bordered td{
+    border: 1px solid #7f8489a6;
+}
+.dark-mode .table-bordered tr{
+    border: 1px solid #7f8489a6;
+}
+.dark-mode .table-bordered thead th
+{
+   border-bottom: 1px solid #7f8489a6;
+}
+
+.dark-mode .table-bordered td span 
+{
+    color: #6c757d;
+}
+
+.dark-mode a 
+{
+    color: #007bffa6;
+}
+
+.dark-mode a:hover
+{
+    color: #007bff;
+}
+
+.dark-mode .name
+{
+    color:#a747ff;
+}
+
+.dark-mode .state
+{
+    color:white;
+}
+
+
+.dark-mode .footer
+{
+    background-color: #1e1e30;
+}
+
+.dark-mode .footer a 
+{
+    color: #0ce8155e;
+}
+
+.dark-mode .footer a:hover
+{
+    color: #0ce815;
+}
+
+
+.dark-mode .rightcard
+{
+    background-color: #343a40 !important;
+}
+.dark-mode .list-group-item:not(:first-child)
+{
+    background-color: #454a4e;
+}
+
+
+
+.dark-mode .precautions p 
+{
+    color:#d2caca;
+}

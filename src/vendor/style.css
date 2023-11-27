@@ -1,0 +1,183 @@
+
+.confirmedColor
+{
+    color: #ff073a;
+    
+}
+
+.activeColor{
+    color: #007bff;
+}
+
+.deathsColor
+{
+    color:#6c757d;
+}
+
+.recoveredColor{
+    color: #28a745;
+}
+
+.currentpage .name
+{
+    color:#7e09ea;
+}
+.currentpage .update
+{
+    font-size:10px;
+}
+
+.precautionfooter
+{
+    margin-top: 17%;;
+}
+
+.footer
+{
+    background-color: #f5f5f5;
+}
+
+
+.myfont{
+    font-family: 'Oxygen', sans-serif;
+    font-weight: 700;
+}
+
+
+
+.casesDisplayer
+{
+    width: 100%;
+}
+
+.symptoms
+{
+    display: flex;
+    
+    text-align: center;
+    font-size: 12px;
+}
+
+.symptoms p
+{
+    padding-top: 10px;
+}
+.symptoms img
+{
+    max-width: 100px;
+}
+
+.symptoms img:hover
+{
+    transform: scale(1.1);
+    transition-duration: 0.5s;
+}
+
+.symptoms td
+{
+    padding-top: 10%;
+}
+
+
+.who-info
+{
+    color:#84817d;
+}
+
+
+
+.casesDisplayer
+{
+    text-align: center;
+    border: 1px solid rgba(0, 0, 0, 0.05);
+
+    box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.05);
+}
+
+
+.deltadata td
+{
+    font-size: 12px;
+}
+.total td
+{
+    font-size: 22px;
+}
+
+.titles th
+{
+    width: 25%  ;
+    border-bottom-color:5px solid rgb(250, 17, 17) !important;
+}
+
+
+
+
+@media (min-width:600px)
+{
+    .apidetails
+{
+    font-size: 10px;;
+}
+    .dosdont
+    {
+        margin-left: 5px;
+        display: flex;
+        text-align: center;
+        font-size: 15px;
+    }
+    .donts
+    {
+        margin-left: 15px;
+    }
+   
+}
+
+@media (max-width: 600px)
+{
+    .dosdont
+    {
+        text-align: center;
+        font-size: 15px;
+    }
+    .donts
+    {
+        margin-top: 10px;
+    }
+   
+    .total td
+    {
+        font-size: 18px;
+    }
+    .deltadata td
+    {
+        font-size: 10px;
+    }
+    .developedby
+    {
+        font-size: 10px;;
+    }
+    .apidetails
+    {
+        font-size: 8px;;
+    }
+    
+    .symptoms
+    {
+        padding-left:0;
+        display: flex;
+        text-align: center;
+        font-size: 15px;
+    }
+
+
+    .symptoms p
+    {
+        font-size: 10px;
+    }
+    .rightcard
+    {
+        margin-top: 15px;
+    }
+
+}

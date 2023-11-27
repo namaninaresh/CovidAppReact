@@ -31,7 +31,6 @@ class App extends React.Component {
   }
 
   async componentDidMount() {
-    console.log("here", navigator.onLine);
     var data = require("./sample json/data.json");
 
     let z = require("./sample json/zones.json");
@@ -133,7 +132,6 @@ class App extends React.Component {
   };
 
   render() {
-    console.log(this.state.statewise);
     return (
       <React.Fragment>
         <div>
@@ -167,7 +165,7 @@ class App extends React.Component {
                 )}
               />
 
-              <Route exact path="/">
+              <Route exact path="CovidAppReact/">
                 <Home data={this.state} />
               </Route>
             </Switch>

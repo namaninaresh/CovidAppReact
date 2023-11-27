@@ -18,7 +18,7 @@ class Navbar extends React.Component {
     return (
       <React.Fragment>
         <nav className={classess}>
-          <Link className="navbar-brand" to="/">
+          <Link className="navbar-brand" to="/CovidAppReact/">
             <img src={this.props.mode ? logoDark : logoLight} alt="logo" />{" "}
             COVID-19
           </Link>
@@ -40,18 +40,18 @@ class Navbar extends React.Component {
           >
             <ul className="navbar-nav  mt-2 mt-lg-0 ">
               <li className="nav-item ">
-                <Link className="nav-link" to="CovidAppReact/">
+                <Link className="nav-link" to="/CovidAppReact/">
                   Home <span className="sr-only">(current)</span>
                 </Link>
               </li>
               <li className="nav-item ">
-                <Link className="nav-link" to="/precautions">
+                <Link className="nav-link" to="/CovidAppReact/precautions">
                   Precautions <span className="sr-only">(current)</span>
                 </Link>
               </li>
 
               <li className="nav-item ">
-                <Link className="nav-link" to="/about">
+                <Link className="nav-link" to="/CovidAppReact/about">
                   About <span className="sr-only">(current)</span>
                 </Link>
               </li>

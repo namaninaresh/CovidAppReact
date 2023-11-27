@@ -165,7 +165,10 @@ class App extends React.Component {
                 )}
               />
 
-              <Route exact path="CovidAppReact/">
+              <Route exact path="/CovidAppReact/">
+                <Home data={this.state} />
+              </Route>
+              <Route exact path="/Home">
                 <Home data={this.state} />
               </Route>
             </Switch>
